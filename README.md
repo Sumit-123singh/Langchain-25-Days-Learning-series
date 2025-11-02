@@ -60,7 +60,7 @@ cd LangChain-25Days-Series
 
 2️⃣ Create and Activate a Virtual Environment
 python -m venv venv
-source venv/bin/activate   # For Windows: venv\Scripts\activate
+venv\Scripts\activate
 
 3️⃣ Install Dependencies
 pip install -r requirements.txt
