@@ -62,6 +62,7 @@ cd LangChain-25Days-Series
 2️⃣ Create and Activate a Virtual Environment
 
 python -m venv venv
+
 venv\Scripts\activate
 
 3️⃣ Install Dependencies
