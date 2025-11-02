@@ -55,14 +55,17 @@ Deployment / Monitoring	LangSmith, LangServe
 ⚙️ Setup Instructions
 
 1️⃣ Clone the Repository
+
 git clone[ https://github.com/Sumit-123singh/Langchain-25-Days-Learning-series](https://github.com/Sumit-123singh/Langchain-25-Days-Learning-series)
 cd LangChain-25Days-Series
 
 2️⃣ Create and Activate a Virtual Environment
+
 python -m venv venv
 venv\Scripts\activate
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 🧑‍💻 Author
