@@ -42,6 +42,7 @@ By completing this 25-day learning challenge, I am now able to:
 ✅ Debug, trace, and monitor pipelines using LangSmith
 
 🧰 Tech Stack
+
 Category	Tools / Frameworks
 Programming Language	Python 3.10+
 Core Framework	LangChain
@@ -50,9 +51,11 @@ Vector Databases	FAISS, Pinecone, Chroma
 Backend	FastAPI
 Frontend / Testing	Streamlit, Gradio
 Deployment / Monitoring	LangSmith, LangServe
+
 ⚙️ Setup Instructions
+
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/LangChain-25Days-Series.git
+git clone[ https://github.com/Sumit-123singh/Langchain-25-Days-Learning-series](https://github.com/Sumit-123singh/Langchain-25-Days-Learning-series)
 cd LangChain-25Days-Series
 
 2️⃣ Create and Activate a Virtual Environment
